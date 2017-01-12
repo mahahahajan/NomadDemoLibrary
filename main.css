@@ -1,0 +1,58 @@
+body{
+	background-color: white;
+	color: #3498db;
+	margin: 0;
+    
+    font-family: sans-serif;
+    font-size: 22px;
+    font-weight: 100;
+    line-height: 30px;
+    min-width: 1040px;
+    background-repeat: no-repeat;
+    overflow-x: hidden;
+    font-family: Ubuntu;
+
+}
+.center{
+	
+	content: center;
+	align-self: center;
+	text-align: center;
+	align-content: center;
+	margin: 10% auto;
+    width: 850px;
+}
+.box {
+
+    display: table;
+    position: relative;
+    margin: 0 auto;
+    padding: 2vmin;
+    background-color:  white;
+    overflow: visible;
+    color: black	;
+    border-radius: 5vh;
+}
+a{
+	background-size: 120%;
+}
+.button:hover{
+	color: white;
+	text-decoration: none;
+	background-color: #2980b9;
+	border-bottom: 3px solid transparent;
+}
+.button {
+	background-color: #3498db;
+	border-color: grey;
+	border-bottom: 5px solid #2980b9;
+	text-decoration: none;
+	color: white;
+	margin: 0 auto;
+	padding: 2%;
+	width: 15vw;
+
+}
+h1{
+	text-shadow: 0 1px 0 black;
+}
