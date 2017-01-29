@@ -1,5 +1,5 @@
 body{
-	background-color: white;
+	background-color: #EFEEEA;
 	color: #3498db;
 	margin: 0;
     
@@ -28,7 +28,7 @@ body{
     position: relative;
     margin: 0 auto;
     padding: 2vmin;
-    background-color:  white;
+    background-color:  #EFEEEA;
     overflow: visible;
     color: black	;
     border-radius: 5vh;
@@ -37,17 +37,20 @@ a{
 	background-size: 120%;
 }
 .button:hover{
-	color: white;
+	color: #EFEEEA;
 	text-decoration: none;
-	background-color: #2980b9;
+	background-color: black;
 	border-bottom: 3px solid transparent;
 }
 .button {
-	background-color: #3498db;
+	background-color: black;
+	background-image: url('yeezyColors.png');
+	background-repeat: repeat;
+	background-size: 60%;
 	border-color: grey;
-	border-bottom: 5px solid #2980b9;
+	border-bottom: 5px solid black;
 	text-decoration: none;
-	color: white;
+	color: #EFEEEA;
 	margin: 0 auto;
 	padding: 2%;
 	width: 15vw;
